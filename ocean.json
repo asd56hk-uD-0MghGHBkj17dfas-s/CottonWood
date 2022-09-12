@@ -381,7 +381,7 @@
         {
          "columns":156,
          "firstgid":1,
-         "image":"src\/assets\/background_ocean.jpeg",
+         "image":"tilesets\/background_ocean.jpeg",
          "imageheight":1000,
          "imagewidth":5000,
          "margin":0,
@@ -394,7 +394,7 @@
         {
          "columns":156,
          "firstgid":4837,
-         "image":"src\/assets\/foreground_ocean.png",
+         "image":"tilesets\/foreground_ocean.png",
          "imageheight":1000,
          "imagewidth":5000,
          "margin":0,
@@ -407,7 +407,7 @@
         {
          "columns":6,
          "firstgid":9673,
-         "image":"src\/assets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -430,7 +430,7 @@
         {
          "columns":20,
          "firstgid":9685,
-         "image":"src\/assets\/props.png",
+         "image":"tilesets\/props.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
