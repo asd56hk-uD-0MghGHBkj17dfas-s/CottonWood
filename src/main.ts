@@ -24,7 +24,19 @@ WA.room.onLeaveLayer("floor").subscribe(() => {
     WA.room.showLayer("wall-stripe-front");
     WA.room.showLayer("sign");
   });
+
   
+  WA.room.onEnterLayer("office_floor").subscribe(() => {
+    WA.room.hideLayer("facade");
+    WA.room.hideLayer("facade-furniture-fg");
+    WA.room.hideLayer("facade-furniture-bg");
+  });
+  
+WA.room.onLeaveLayer("office_floor").subscribe(() => {
+    WA.room.showLayer("facade");
+    WA.room.showLayer("facade-furniture-fg");
+    WA.room.showLayer("facade-furniture-bg");
+  });
   
 
     WA.room.onEnterLayer('clockZone').subscribe(() => {
