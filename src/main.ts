@@ -16,12 +16,14 @@ WA.onInit().then(() => {
 WA.room.onEnterLayer("floor").subscribe(() => {
     WA.room.hideLayer("roof");
     WA.room.hideLayer("wall-stripe-front");
+    WA.room.hideLayer("walls-bg-front");
     WA.room.hideLayer("sign");
   });
   
 WA.room.onLeaveLayer("floor").subscribe(() => {
     WA.room.showLayer("roof");
     WA.room.showLayer("wall-stripe-front");
+    WA.room.showLayer("walls-bg-front");
     WA.room.showLayer("sign");
   });
 
@@ -37,6 +39,8 @@ WA.room.onLeaveLayer("office_floor").subscribe(() => {
     WA.room.showLayer("facade-furniture-fg");
     WA.room.showLayer("facade-furniture-bg");
   });
+
+  
   
 
     WA.room.onEnterLayer('clockZone').subscribe(() => {
