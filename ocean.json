@@ -122,6 +122,12 @@
          "id":6,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/cottonwood"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":156,
