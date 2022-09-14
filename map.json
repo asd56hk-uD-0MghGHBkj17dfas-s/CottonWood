@@ -1468,70 +1468,6 @@
                  "width":144.120537176548,
                  "x":480.401790588492,
                  "y":894.202423845398
-                }, 
-                {
-                 "height":107.086614173228,
-                 "id":38,
-                 "name":"jitsi-speaker-test",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"jitsi-speakertag1"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Press space or touch here to open Jitsi room"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":125.984251968504,
-                 "x":1184.25196850394,
-                 "y":928.346456692913
-                }, 
-                {
-                 "height":285.826771653543,
-                 "id":39,
-                 "name":"jitsi-speaker-test2",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"jitsi-speakertag1"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Press space or touch here to open Jitsi room"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":115.748031496063,
-                 "x":452.755905511811,
-                 "y":1339.37007874016
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2214,7 +2150,7 @@
          "name":"sign",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -14242,6 +14178,82 @@
                         }]
                 }, 
                 {
+                 "id":487,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":488,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":489,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":490,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
                  "id":492,
                  "properties":[
                         {
@@ -14717,6 +14729,82 @@
                         }]
                 }, 
                 {
+                 "id":527,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":528,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":529,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":530,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
                  "id":532,
                  "properties":[
                         {
@@ -14753,7 +14841,8 @@
                          "type":"string",
                          "value":"onaction"
                         }]
-                }, 
+                },
+            
                 {
                  "id":534,
                  "properties":[
@@ -14905,8 +14994,7 @@
                          "type":"string",
                          "value":"onaction"
                         }]
-                },
-            
+                }, 
                 {
                  "id":544,
                  "properties":[
@@ -15180,6 +15268,82 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"green-rug-h-7"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":567,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":568,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":569,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }]
+                }, 
+                {
+                 "id":570,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"green-rug-hs-1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -16103,7 +16267,8 @@
                          "type":"string",
                          "value":"onaction"
                         }]
-                }, 
+                },
+            
                 {
                  "id":683,
                  "properties":[
@@ -16331,8 +16496,7 @@
                          "type":"string",
                          "value":"onaction"
                         }]
-                },
-            
+                }, 
                 {
                  "id":700,
                  "properties":[
@@ -17529,7 +17693,8 @@
                          "type":"string",
                          "value":"onaction"
                         }]
-                }, 
+                },
+            
                 {
                  "id":1003,
                  "properties":[
@@ -17717,8 +17882,7 @@
                          "type":"string",
                          "value":"onaction"
                         }]
-                },
-            
+                }, 
                 {
                  "id":1019,
                  "properties":[
