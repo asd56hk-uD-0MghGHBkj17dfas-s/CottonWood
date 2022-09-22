@@ -1855,7 +1855,7 @@
                         {
                          "name":"playAudio",
                          "type":"file",
-                         "value":"tilesets\/fire.mp3"
+                         "value":"https:\/\/github.com\/100-Roads\/CottonWood.git\/tilesets\/fire.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
