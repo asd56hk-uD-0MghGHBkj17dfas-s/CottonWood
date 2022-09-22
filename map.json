@@ -1912,28 +1912,6 @@
                  "y":2205.20056440234
                 }, 
                 {
-                 "height":1200,
-                 "id":52,
-                 "name":"birds-4",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"tilesets\/birds.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":529.4,
-                 "x":-2.99,
-                 "y":1200.58
-                }, 
-                {
                  "height":224.409448818898,
                  "id":65,
                  "name":"fire",
