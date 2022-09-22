@@ -496,7 +496,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/cottonwood#entry-from-ocean"
+                 "value":"map.json#entry-from-ocean"
                 }],
          "type":"tilelayer",
          "visible":true,

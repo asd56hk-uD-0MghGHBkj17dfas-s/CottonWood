@@ -1854,7 +1854,7 @@
                         }, 
                         {
                          "name":"playAudio",
-                         "type":"string",
+                         "type":"file",
                          "value":"tilesets\/fire.mp3"
                         }],
                  "rotation":0,
