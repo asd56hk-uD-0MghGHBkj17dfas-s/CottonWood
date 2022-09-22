@@ -108,7 +108,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"1"
                 }, 
@@ -116,6 +116,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open Jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +158,29 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":477.718360071301,
+                 "id":1,
+                 "name":"zoom1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":-1
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":900.178253119429,
+                 "x":-1.7825311942959,
+                 "y":0
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -187,7 +214,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.4",

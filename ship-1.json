@@ -180,7 +180,29 @@
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":479.128856624319,
+                 "id":1,
+                 "name":"zoom1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":-1
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":894.37386569873,
+                 "x":1.4519056261343,
+                 "y":1.4519056261343
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -214,7 +236,7 @@
          "y":0
         }],
  "nextlayerid":9,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.4",
